@@ -1,4 +1,4 @@
-# 🧑‍💼 Interactive Job Search System
+# Job Search System
 
 A simple yet powerful **job recommendation and application platform** built with **Python Object-Oriented Programming (OOP)** and **Streamlit**. This app helps users discover jobs matching their skills and allows them to apply directly through the interface.
 
